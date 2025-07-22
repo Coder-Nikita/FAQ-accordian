@@ -20,7 +20,7 @@ Each FAQ item expands on click to reveal the answer and collapses again on anoth
 ## 📸 Screenshot
 
 
-![Accordian Preview](images/accordian.ss.png)
+![Accordian Preview](images/accordian.png)
 ---
 
 ## 🛠️ Tech Stack
